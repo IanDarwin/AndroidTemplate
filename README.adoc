@@ -1,0 +1,5 @@
+= AndroidTemplate
+
+A very minimal Android app, just as created for API 32 by Android Studio "Chipmunk".
+
+Designed to be used to pull parts from when updating older projects.
